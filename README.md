@@ -4,7 +4,8 @@ My portfolio links
 ## schoo
 Project at [schoo](https://schoo.jp/).
  - [`schoo-gnav`](https://github.com/shgtkshruch/schoo-gnav) global navigation study.
- 
+ - [`schoo-notify`](https://github.com/shgtkshruch/schoo-notify) landing page.
+
 ## CSS
 - [`rotate-button`](https://github.com/shgtkshruch/rotate-button) rotate button in three dimentions.
 - [`folding-button`](https://github.com/shgtkshruch/folding-button) folding button in three dimentions.
