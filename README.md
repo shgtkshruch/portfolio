@@ -3,6 +3,7 @@ My portfolio links
 
 ## schoo
 Project at [schoo](https://schoo.jp/).
+ - [`schoo-tours`](https://github.com/shgtkshruch/schoo-tours) landing page of schoo tours.
  - [`schoo-gnav`](https://github.com/shgtkshruch/schoo-gnav) global navigation study.
  - [`schoo-notify`](https://github.com/shgtkshruch/schoo-notify) landing page.
 
