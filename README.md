@@ -1,6 +1,9 @@
 # portfolio
 My portfolio links
 
+## Landing Page
+ - [`walk-and-ride`](https://github.com/shgtkshruch/walk-and-ride) A minimalistic mobile app landing page.
+
 ## schoo
 Project at [schoo](https://schoo.jp/).
  - [`schoo-tours`](https://github.com/shgtkshruch/schoo-tours) landing page of schoo tours.
