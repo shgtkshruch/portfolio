@@ -4,6 +4,7 @@ My portfolio links
 ## Landing Page
  - [`walk-and-ride`](https://github.com/shgtkshruch/walk-and-ride) A minimalistic mobile app landing page.
  - [`halcyon-days`](https://github.com/shgtkshruch/halcyon-days) A creative one page portfolio template.
+ - [`boxify`](https://github.com/shgtkshruch/boxify) A modern free HTML5/CSS3 website template.
 
 ## schoo
 Project at [schoo](https://schoo.jp/).
