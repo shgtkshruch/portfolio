@@ -12,6 +12,12 @@ Project at [schoo](https://schoo.jp/).
  - [`schoo-gnav`](https://github.com/shgtkshruch/schoo-gnav) global navigation study.
  - [`schoo-notify`](https://github.com/shgtkshruch/schoo-notify) landing page.
 
+## Books
+ - 書籍[「HTML5/CSS3モダンコーディングフロントエンドエンジニアが教える3つの本格レイアウト」](http://www.shoeisha.co.jp/book/detail/9784798141572)
+  - [`mcoding-standard-layout`](https://github.com/shgtkshruch/mcoding-standard-layout) スタンダードレイアウト
+  - [`mcoding-grid-layout`](https://github.com/shgtkshruch/mcoding-grid-layout) グリッドレイアウト
+  - [`mcoding-singlepage-layout`](https://github.com/shgtkshruch/mcoding-singlepage-layout) シングルページレイアウト
+
 ## CSS
 - [`rotate-button`](https://github.com/shgtkshruch/rotate-button) rotate button in three dimentions.
 - [`folding-button`](https://github.com/shgtkshruch/folding-button) folding button in three dimentions.
