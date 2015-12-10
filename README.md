@@ -24,6 +24,7 @@ Project at [schoo](https://schoo.jp/).
 - [`background-switch-button`](https://github.com/shgtkshruch/background-switch-button) background switch button.
 
 ## JavaScript
+ - [`hbr`](https://github.com/shgtkshruch/hbr) Hatena Bookmark Reader
  - [`backbone-todo`](https://github.com/shgtkshruch/backbone-todo) application of [Developing Backbone.js Applications](http://shop.oreilly.com/product/0636920025344.do) tutorial.
  - [`angular-todo`](https://github.com/shgtkshruch/angular-todo) application of [すぐできるAngular.js](http://8th713.github.io/LearnAngularJS/#/) tutorial.
  - [`single-double-click`](https://github.com/shgtkshruch/single-double-click) add click and double click event to same element.
