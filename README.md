@@ -11,6 +11,7 @@ Project at [schoo](https://schoo.jp/).
  - [`schoo-tours`](https://github.com/shgtkshruch/schoo-tours) landing page of schoo tours.
  - [`schoo-gnav`](https://github.com/shgtkshruch/schoo-gnav) global navigation study.
  - [`schoo-notify`](https://github.com/shgtkshruch/schoo-notify) landing page.
+ - [`schoo-timer`](https://github.com/shgtkshruch/schoo-timer) simple timer.
 
 ## Books
  - 書籍[「HTML5/CSS3モダンコーディングフロントエンドエンジニアが教える3つの本格レイアウト」](http://www.shoeisha.co.jp/book/detail/9784798141572)
@@ -25,6 +26,7 @@ Project at [schoo](https://schoo.jp/).
 
 ## JavaScript
  - [`Feed Pocket`](https://github.com/shgtkshruch/feed-pocket) Feed Pocket is a site that summarizes the RSS feed of design and architecture and Web design
+ - [`timeline`](https://github.com/shgtkshruch/timeline) History that I picked up
  - [`hbr`](https://github.com/shgtkshruch/hbr) Hatena Bookmark Reader
  - [`Unsplash Gallery`](https://github.com/shgtkshruch/unsplash-gallery) Randomly display the photos of [Unsplash](https://unsplash.com/) using [Unsplash It](https://unsplash.it/).
  - [`backbone-todo`](https://github.com/shgtkshruch/backbone-todo) application of [Developing Backbone.js Applications](http://shop.oreilly.com/product/0636920025344.do) tutorial.
