@@ -12,12 +12,16 @@ Project at [schoo](https://schoo.jp/).
  - [`schoo-gnav`](https://github.com/shgtkshruch/schoo-gnav) Global navigation study.
  - [`schoo-notify`](https://github.com/shgtkshruch/schoo-notify) Landing page.
  - [`schoo-timer`](https://github.com/shgtkshruch/schoo-timer) Simple timer.
+ - [`schoo-todolist`](https://github.com/shgtkshruch/schoo-todolist) ToDo list.
+
 
 ## Books
  - 書籍[「HTML5/CSS3モダンコーディングフロントエンドエンジニアが教える3つの本格レイアウト」](http://www.shoeisha.co.jp/book/detail/9784798141572)
   - [`mcoding-standard-layout`](https://github.com/shgtkshruch/mcoding-standard-layout) スタンダードレイアウト
   - [`mcoding-grid-layout`](https://github.com/shgtkshruch/mcoding-grid-layout) グリッドレイアウト
   - [`mcoding-singlepage-layout`](https://github.com/shgtkshruch/mcoding-singlepage-layout) シングルページレイアウト
+ - 書籍[「作りながら学ぶHTML／CSSデザインの教科書」](http://htmlcss.cat-speak.net/)
+  - [komorikomasha](https://github.com/shgtkshruch/htmlcss-design-textbook) 著者らが主催する「komorikomasha」というグループが制作した作品を紹介するサイト
 
 ## CSS
 - [`rotate-button`](https://github.com/shgtkshruch/rotate-button) Rotate button in three dimentions.
