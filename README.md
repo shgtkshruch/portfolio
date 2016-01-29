@@ -29,9 +29,9 @@ Project at [schoo](https://schoo.jp/).
 - [`background-switch-button`](https://github.com/shgtkshruch/background-switch-button) Background switch button.
 
 ## JavaScript
- - [`Feed Pocket`](https://github.com/shgtkshruch/feed-pocket) Feed Pocket is a site that summarizes the RSS feed of design and architecture and Web design
- - [`timeline`](https://github.com/shgtkshruch/timeline) History that I picked up
- - [`hbr`](https://github.com/shgtkshruch/hbr) Hatena Bookmark Reader
+ - [`Feed Pocket`](https://github.com/shgtkshruch/feed-pocket) Feed Pocket is a site that summarizes the RSS feed of design and architecture and Web design.
+ - [`timeline`](https://github.com/shgtkshruch/timeline) History that I picked up.
+ - [`hbr`](https://github.com/shgtkshruch/hbr) Hatena Bookmark Reader.
  - [`Unsplash Gallery`](https://github.com/shgtkshruch/unsplash-gallery) Randomly display the photos of [Unsplash](https://unsplash.com/) using [Unsplash It](https://unsplash.it/).
  - [`backbone-todo`](https://github.com/shgtkshruch/backbone-todo) Application of [Developing Backbone.js Applications](http://shop.oreilly.com/product/0636920025344.do) tutorial.
  - [`angular-todo`](https://github.com/shgtkshruch/angular-todo) Application of [すぐできるAngular.js](http://8th713.github.io/LearnAngularJS/#/) tutorial.
@@ -40,6 +40,8 @@ Project at [schoo](https://schoo.jp/).
 
 ## Node.js
  - [`koa-todo-list`](https://github.com/shgtkshruch/koa-todo-list) Todo list app using koa.
+ - [`generator-idon`](https://github.com/shgtkshruch/generator-idon) Yeoman generator for starting sketch HTML, CSS, and JavaScript.
+ - [`node-note`](https://github.com/shgtkshruch/node-note) Evetnote wrapper.
  - [`peco-cdnjs`](https://github.com/shgtkshruch/peco-cdnjs) search [cdnjs.com](https://cdnjs.com/) with peco. 
 
 
