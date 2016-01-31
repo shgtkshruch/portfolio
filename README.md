@@ -13,6 +13,7 @@ Project at [schoo](https://schoo.jp/).
  - [`schoo-notify`](https://github.com/shgtkshruch/schoo-notify) Landing page.
  - [`schoo-timer`](https://github.com/shgtkshruch/schoo-timer) Simple timer.
  - [`schoo-todolist`](https://github.com/shgtkshruch/schoo-todolist) ToDo list.
+ - [`schoo-eventsearch`](https://github.com/shgtkshruch/schoo-eventsearch) Event search application using api of atend.
 
 
 ## Books
