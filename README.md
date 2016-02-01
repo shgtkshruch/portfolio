@@ -15,7 +15,6 @@ Project at [schoo](https://schoo.jp/).
  - [`schoo-todolist`](https://github.com/shgtkshruch/schoo-todolist) ToDo list.
  - [`schoo-eventsearch`](https://github.com/shgtkshruch/schoo-eventsearch) Event search application using api of atend.
 
-
 ## Books
  - 書籍[「HTML5/CSS3モダンコーディングフロントエンドエンジニアが教える3つの本格レイアウト」](http://www.shoeisha.co.jp/book/detail/9784798141572)
   - [`mcoding-standard-layout`](https://github.com/shgtkshruch/mcoding-standard-layout) スタンダードレイアウト
@@ -23,6 +22,8 @@ Project at [schoo](https://schoo.jp/).
   - [`mcoding-singlepage-layout`](https://github.com/shgtkshruch/mcoding-singlepage-layout) シングルページレイアウト
  - 書籍[「作りながら学ぶHTML／CSSデザインの教科書」](http://htmlcss.cat-speak.net/)
   - [komorikomasha](https://github.com/shgtkshruch/htmlcss-design-textbook) 著者らが主催する「komorikomasha」というグループが制作した作品を紹介するサイト
+ - 書籍[「jQuery最高の教科書」](http://jquery.shiftbrain.co.jp/)
+  - [`chapter 4`](https://github.com/shgtkshruch/jquery-best-textbook-chapter4) さまざまなホバーエフェクト, 見え隠れするサイドバー, タイポグラフィの表現
 
 ## CSS
 - [`rotate-button`](https://github.com/shgtkshruch/rotate-button) Rotate button in three dimentions.
