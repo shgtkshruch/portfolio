@@ -23,7 +23,9 @@ Project at [schoo](https://schoo.jp/).
  - 書籍[「作りながら学ぶHTML／CSSデザインの教科書」](http://htmlcss.cat-speak.net/)
   - [komorikomasha](https://github.com/shgtkshruch/htmlcss-design-textbook) 著者らが主催する「komorikomasha」というグループが制作した作品を紹介するサイト
  - 書籍[「jQuery最高の教科書」](http://jquery.shiftbrain.co.jp/)
-  - [`chapter 4`](https://github.com/shgtkshruch/jquery-best-textbook-chapter4) さまざまなホバーエフェクト, 見え隠れするサイドバー, タイポグラフィの表現
+  - [`chapter4`](https://github.com/shgtkshruch/jquery-best-textbook-chapter4) さまざまなホバーエフェクト、 見え隠れするサイドバー、タイポグラフィの表現
+  - [`chapter5`](https://github.com/shgtkshruch/jquery-best-textbook-chapter5) スライドショー、スティッキーヘッダー、タブ、ページトップへ戻る
+
 
 ## CSS
 - [`rotate-button`](https://github.com/shgtkshruch/rotate-button) Rotate button in three dimentions.
