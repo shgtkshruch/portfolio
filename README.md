@@ -25,7 +25,7 @@ Project at [schoo](https://schoo.jp/).
  - 書籍[「jQuery最高の教科書」](http://jquery.shiftbrain.co.jp/)
   - [`chapter4`](https://github.com/shgtkshruch/jquery-best-textbook-chapter4) さまざまなホバーエフェクト、 見え隠れするサイドバー、タイポグラフィの表現
   - [`chapter5`](https://github.com/shgtkshruch/jquery-best-textbook-chapter5) スライドショー、スティッキーヘッダー、タブ、ページトップへ戻る
-
+  - [`chapter6`](https://github.com/shgtkshruch/jquery-best-textbook-chapter6) masonry、絞り込み、ホバーエフェクト
 
 ## CSS
 - [`rotate-button`](https://github.com/shgtkshruch/rotate-button) Rotate button in three dimentions.
