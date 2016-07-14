@@ -6,6 +6,13 @@ My portfolio links
  - [`halcyon-days`](https://github.com/shgtkshruch/halcyon-days) A creative one page portfolio template.
  - [`boxify`](https://github.com/shgtkshruch/boxify) A modern free HTML5/CSS3 website template.
 
+## dotinstall
+Project at [dotinstall](http://dotinstall.com).
+ - [`dotinstall-tab-menu`](https://github.com/shgtkshruch/dotinstall-tab-menu) Tab menu.
+ - [`dotinstall-hamberger-menu`](https://github.com/shgtkshruch/dotinstall-hamberger-menu) Hamberger menu.
+ - [`dotinstall-hamberger-menu2`](https://github.com/shgtkshruch/dotinstall-hamberger-menu2) Hamberger menu version 2.
+ - [`dotinstall-slot-machine`](https://github.com/shgtkshruch/dotinstall-slot-machine) Slot machine.
+
 ## schoo
 Project at [schoo](https://schoo.jp/).
  - [`schoo-tours`](https://github.com/shgtkshruch/schoo-tours) Landing page of schoo tours.
