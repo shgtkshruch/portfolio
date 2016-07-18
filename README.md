@@ -13,6 +13,8 @@ Project at [dotinstall](http://dotinstall.com).
  - [`dotinstall-hamberger-menu2`](https://github.com/shgtkshruch/dotinstall-hamberger-menu2) Hamberger menu version 2.
  - [`dotinstall-slot-machine`](https://github.com/shgtkshruch/dotinstall-slot-machine) Slot machine.
  - [`dotinstall-flash-card`](https://github.com/shgtkshruch/dotinstall-flash-card) Flash card.
+ - [`dotinstall-typing-game`](https://github.com/shgtkshruch/dotinstall-typing-game) Typing game.
+
 
 ## schoo
 Project at [schoo](https://schoo.jp/).
