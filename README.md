@@ -14,6 +14,7 @@ Project at [dotinstall](http://dotinstall.com).
  - [`dotinstall-slot-machine`](https://github.com/shgtkshruch/dotinstall-slot-machine) Slot machine.
  - [`dotinstall-flash-card`](https://github.com/shgtkshruch/dotinstall-flash-card) Flash card.
  - [`dotinstall-typing-game`](https://github.com/shgtkshruch/dotinstall-typing-game) Typing game.
+ - [`dotinstall-number-touch-game`](https://github.com/shgtkshruch/dotinstall-number-touch-game) Number touch game.
 
 
 ## schoo
