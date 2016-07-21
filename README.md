@@ -15,7 +15,7 @@ Project at [dotinstall](http://dotinstall.com).
  - [`dotinstall-flash-card`](https://github.com/shgtkshruch/dotinstall-flash-card) Flash card.
  - [`dotinstall-typing-game`](https://github.com/shgtkshruch/dotinstall-typing-game) Typing game.
  - [`dotinstall-number-touch-game`](https://github.com/shgtkshruch/dotinstall-number-touch-game) Number touch game.
-
+ - [`dotinstall-concentration-game`](https://github.com/shgtkshruch/dotinstall-concentration-game) Concentration game.
 
 ## schoo
 Project at [schoo](https://schoo.jp/).
