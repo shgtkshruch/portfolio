@@ -16,6 +16,8 @@ Project at [dotinstall](http://dotinstall.com).
  - [`dotinstall-typing-game`](https://github.com/shgtkshruch/dotinstall-typing-game) Typing game.
  - [`dotinstall-number-touch-game`](https://github.com/shgtkshruch/dotinstall-number-touch-game) Number touch game.
  - [`dotinstall-concentration-game`](https://github.com/shgtkshruch/dotinstall-concentration-game) Concentration game.
+ - [`dotinstall-enchantjs-bear`](https://github.com/shgtkshruch/dotinstall-enchantjs-bear) Game to catch bear.
+
 
 ## schoo
 Project at [schoo](https://schoo.jp/).
