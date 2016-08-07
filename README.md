@@ -18,6 +18,7 @@ Project at [dotinstall](http://dotinstall.com).
  - [`dotinstall-concentration-game`](https://github.com/shgtkshruch/dotinstall-concentration-game) Concentration game.
  - [`dotinstall-enchantjs-bear`](https://github.com/shgtkshruch/dotinstall-enchantjs-bear) Game to catch bear.
  - [`dotinstall-text-counter`](https://github.com/shgtkshruch/dotinstall-text-counter) Text counter.
+ - [`dotinstall-password-generator`](https://github.com/shgtkshruch/dotinstall-password-generator) Password generator.
 
 ## schoo
 Project at [schoo](https://schoo.jp/).
@@ -59,7 +60,6 @@ Project at [schoo](https://schoo.jp/).
  - [`generator-idon`](https://github.com/shgtkshruch/generator-idon) Yeoman generator for starting sketch HTML, CSS, and JavaScript.
  - [`node-note`](https://github.com/shgtkshruch/node-note) Evetnote wrapper.
  - [`peco-cdnjs`](https://github.com/shgtkshruch/peco-cdnjs) search [cdnjs.com](https://cdnjs.com/) with peco. 
-
 
 ## WordPress
  - [`hotel-gihyo-resort-ishigaki`](https://github.com/shgtkshruch/hotel-gihyo-resort-ishigaki) Web site of "ホテル・技評リゾート石垣島".
