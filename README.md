@@ -54,6 +54,7 @@ Project at [schoo](https://schoo.jp/).
  - [`angular-todo`](https://github.com/shgtkshruch/angular-todo) Application of [すぐできるAngular.js](http://8th713.github.io/LearnAngularJS/#/) tutorial.
  - [`single-double-click`](https://github.com/shgtkshruch/single-double-click) Add click and double click event to same element.
  - [`snap-loading`](https://github.com/shgtkshruch/snap-loading) Loading icon with [Snap.svg](http://snapsvg.io/).
+ - [`modal-open-animation`](https://github.com/shgtkshruch/open-animaton-sample) Open animation for modal.
 
 ## Node.js
  - [`koa-todo-list`](https://github.com/shgtkshruch/koa-todo-list) Todo list app using koa.
