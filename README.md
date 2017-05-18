@@ -45,6 +45,8 @@ Project at [schoo](https://schoo.jp/).
 - [`rotate-button`](https://github.com/shgtkshruch/rotate-button) Rotate button in three dimentions.
 - [`folding-button`](https://github.com/shgtkshruch/folding-button) Folding button in three dimentions.
 - [`background-switch-button`](https://github.com/shgtkshruch/background-switch-button) Background switch button.
+- [`modal-like-a-finder`](https://github.com/shgtkshruch/modal-like-desktop) Modal like a finder.
+
 
 ## JavaScript
  - [`Feed Pocket`](https://github.com/shgtkshruch/feed-pocket) Feed Pocket is a site that summarizes the RSS feed of design and architecture and Web design.
